@@ -30,7 +30,7 @@ Neuro-Symbolic AI is a paradigm that synergistically integrates deep learning (n
 ```bash
 .
 ├── src/
-│   └── neuro_symbolic_fraud_detector.py  # All core code and pipeline
+│   └── neuro_symbolic_fraud_detector.ipynb  # All core code and pipeline
 ├── README.md                          # Comprehensive project documentation (You are here)
 └── LICENSE                            # MIT or other chosen license
 ```
